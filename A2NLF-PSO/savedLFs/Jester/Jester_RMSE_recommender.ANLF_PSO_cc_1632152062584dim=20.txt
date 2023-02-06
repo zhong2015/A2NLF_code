@@ -1,0 +1,21 @@
+
+****************************************************************
+                          featureDimension——>20
+                          swarmNum——>10
+                          lambda——>0.2-2.0
+                          eta——>1.0-2.0
+                          minGap——>1.0E-5
+****************************************************************
+1.0792850164895404
+1.073741314513304
+1.040743408422687
+1.0201199388842974
+1.0163708544782843
+r1::r2——>0.189136962306255::0.203847097018464
+Min training Error:			1.0148576250761092
+Min total training epochs:		5
+Total Round:		5
+Min total training time:		60717.0
+Min average training time:		12143.4
+Total training time:		81061.0
+Average training time:		16212.2
